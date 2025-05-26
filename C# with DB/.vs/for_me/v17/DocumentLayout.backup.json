@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\for_me\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1100525B-C0C1-4F99-AD1D-0231A0BECF2D}|for_me\\for_me.csproj|c:\\users\\user\\source\\repos\\for_me\\for_me\\must_readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1100525B-C0C1-4F99-AD1D-0231A0BECF2D}|for_me\\for_me.csproj|solutionrelative:for_me\\must_readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1100525B-C0C1-4F99-AD1D-0231A0BECF2D}|for_me\\for_me.csproj|c:\\users\\user\\source\\repos\\for_me\\for_me\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1100525B-C0C1-4F99-AD1D-0231A0BECF2D}|for_me\\for_me.csproj|solutionrelative:for_me\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1100525B-C0C1-4F99-AD1D-0231A0BECF2D}|for_me\\for_me.csproj|c:\\users\\user\\source\\repos\\for_me\\for_me\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1100525B-C0C1-4F99-AD1D-0231A0BECF2D}|for_me\\for_me.csproj|solutionrelative:for_me\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\for_me\\for_me\\appsettings.json",
+              "RelativeDocumentMoniker": "for_me\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\for_me\\for_me\\appsettings.json",
+              "RelativeToolTip": "for_me\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T17:23:44.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\for_me\\for_me\\Program.cs",
+              "RelativeDocumentMoniker": "for_me\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\for_me\\for_me\\Program.cs",
+              "RelativeToolTip": "for_me\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:25:43.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "must_readme.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\for_me\\for_me\\must_readme.txt",
+              "RelativeDocumentMoniker": "for_me\\must_readme.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\for_me\\for_me\\must_readme.txt",
+              "RelativeToolTip": "for_me\\must_readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-26T15:51:17.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
